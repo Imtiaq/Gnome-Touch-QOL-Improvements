@@ -9,9 +9,9 @@ an alternative was very much necessary and this extention is the only one that s
 to be compatible. It's a much needed improvement, huge benefit is how you can move the
 keyboard around so you dont have to worry about it covering up your text. The app itself
 is quite customizeable and lets you create your own keyboard from scratch by editing the 
-json file. The default layours aren't great to be honest so I made my own after a lot 
-of trail and error to a format that feels most natural. You can find my custom format
-within the "Better OSK" folder.
+json file. The default layouts aren't amazing for the tablet format to be honest so I 
+made my own after a lot of trail and error to a layout that feels a lot more natural (to
+me at least). You can find my custom format within the "Better OSK" folder with my settings.
 
 Developer's Description:
 A new Onscreen Keyboard built using GNOME JS
