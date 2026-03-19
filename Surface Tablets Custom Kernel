@@ -1,0 +1,9 @@
+If you looked into linux tablets you've probably came across this already but I'm including it 
+here just in case. The linux surface project is a really cool project that aims to make Microsoft
+Surface Tablets to be functional with linux. When I tried to install Fedora 42 on my surface pro 6,
+it wouldn't even install, so I had to install the surface linux kernel inside the liveboot to get
+it to even install in the first place but once that was done it's incredible how well it worked.
+Almost everything fucntions as you expect it with the camera quality being shot, the touchscreen 
+usage also works fairly well with only some ocassional misinputs. 
+
+https://github.com/linux-surface/linux-surface
